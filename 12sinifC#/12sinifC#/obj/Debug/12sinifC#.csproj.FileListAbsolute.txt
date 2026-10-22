@@ -1,0 +1,7 @@
+C:\Users\Seeca\source\repos\12sinifC#\12sinifC#\bin\Debug\12sinifC#.exe.config
+C:\Users\Seeca\source\repos\12sinifC#\12sinifC#\bin\Debug\12sinifC#.exe
+C:\Users\Seeca\source\repos\12sinifC#\12sinifC#\bin\Debug\12sinifC#.pdb
+C:\Users\Seeca\source\repos\12sinifC#\12sinifC#\obj\Debug\12sinifC#.csproj.AssemblyReference.cache
+C:\Users\Seeca\source\repos\12sinifC#\12sinifC#\obj\Debug\12sinifC#.csproj.CoreCompileInputs.cache
+C:\Users\Seeca\source\repos\12sinifC#\12sinifC#\obj\Debug\12sinifC#.exe
+C:\Users\Seeca\source\repos\12sinifC#\12sinifC#\obj\Debug\12sinifC#.pdb
